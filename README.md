@@ -11,7 +11,7 @@ Leaf is a social enterprise headquartered in Nashville, Tennesse with companies 
 
 For the 68.5 million forcibly displaced people in the world today and the 100 million people who could become refugees tomorrow, access to financial services is crucial. Personal savings and access to friends and family willing to help is often the only lifeline. Leaf safeguard their money and provide access across borders, helping refugees with financial security, and a greater chance of success in a new country.
 
-## Business Activities:
+## Business Activities
 
 Leaf created a platform to efficiently receive transfers, store savings, and make payments to help increase refugees’ access to funds and decrease their dependence on host countries and foreign aid. Limited technology and physical infrastructure during transit and in refugee camps necessitate innovative solutions to ensure that refugees and internally displaced persons can participate in the formal economy. 
 
@@ -23,7 +23,7 @@ Leaf Global Fintech has raised a total of $100K in funding over 2 rounds by 2 im
 1. Catalyst Fund 
 2. Western Union Accelerator Powered by Techstars
 
-## Landscape:
+## Landscape
 
 Traditional banking institutions have been unable or unwilling to provide financial products to refugees, thus providing an opening for companies like Leaf to improve the financial livelihoods of these forcibly displaced persons. 
 
